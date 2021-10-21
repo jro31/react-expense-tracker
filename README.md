@@ -1,0 +1,1 @@
+Project based on *'Section 3: React Basics & Working With Components'*, *'Section 4: React State & Working with Events'* and *'Section 5: Rendering Lists & Conditional Content'* of Academind's *['React - The Complete Guide'](https://acad.link/reactjs)* course.
